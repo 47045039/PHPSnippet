@@ -19,7 +19,7 @@ if (false) { // 位运算符，^按位异或
 }
 
 if (true) {
-	// error_reporting(E_ALL);
+	error_reporting(E_ALL);
 	function test() {
 		/*
 		 * @ 错误跟踪符号，可以启动错误跟踪。 `` （反引号）执行运算符，可以执行shell命令 . 字符串连接符，类似append功能
